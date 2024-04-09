@@ -1,0 +1,96 @@
+*{
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+nav ul {
+    list-style: none;
+    
+    
+}
+
+nav ul li{
+    display: inline;
+    font-weight: bold;
+    font-size: large;
+    text-decoration: none;
+}
+
+
+
+
+h3{
+    color:rgb(148, 3, 8);
+}
+
+
+p{
+    color:saddlebrown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:medium;
+    font-weight: bold;
+    
+    
+}
+
+.parrafo1{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: small;
+   background-color: lightpink;
+}
+
+.parrafo2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    border:solid;
+ }
+
+ .parrafo3{
+    color: rgb(150, 102, 43);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    background-color: rgb(234, 180, 15)255, 182);
+ }
+
+
+ .parrafo4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    background-color: rgb(182, 255, 226);
+ }
+ 
+ .parrafo5{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: small;
+     background-color: rgb(220, 182, 255);
+  }
+ 
+  .parrafo6{
+     color: rgb(150, 102, 43);
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: small;
+     background-color: rgb(189, 135, 186)255, 182);
+  }
+ 
+  .parrafo7{
+    color: rgb(150, 102, 43);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    background-color: rgb(189, 135, 186)255, 182);
+ }
+
+
+
+ .imag1{
+    border-radius: 500px;
+    border:solid;
+    color: blueviolet;
+    width:250px;
+ }
+
+
+.emociones{
+
+    
+}
